@@ -29,6 +29,7 @@ Computer Science & Engineering undergraduate at RUET. Passionate about software 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auskar-ghosh-195857409)
 [![Email](https://img.shields.io/badge/Email-arghoghosh0712%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arghoghosh0712@gmail.com)
+
 ---
 
 ### 📊 GitHub Stats
