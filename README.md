@@ -36,4 +36,4 @@ Computer Science & Engineering undergraduate at RUET. Passionate about software 
 ---
 
 ### 📊 GitHub Stats
-![Argho's Streak](https://streak-stats.demolab.com?user=arghoghosh0712-commits&theme=radical)
+![Argho's Streak](https://streak-stats.demolab.com?user=arghoghosh05&theme=radical)
